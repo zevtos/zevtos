@@ -1,4 +1,4 @@
-👋 Hi, I’m @zevtos(https://github.com/zevtos)
+👋 Hi, I’m [zevtos](https://github.com/zevtos)
 
 🎓 Student at ITMO University, specializing in Neurotechnology and Programming.  
 💻 Experienced in Java development as part of university projects.  
